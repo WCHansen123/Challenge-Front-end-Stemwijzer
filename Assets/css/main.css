@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+
+.container{
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(90deg, rgba(255,255,255,1) 61%, rgba(255,255,255,1) 61%, rgba(47,166,200,1) 61%);
+    background: -webkit-linear-gradient(90deg, rgba(255,255,255,1) 61%, rgba(255,255,255,1) 61%, rgba(47,166,200,1) 61%);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 61%, rgba(255,255,255,1) 61%, rgba(47,166,200,1) 61%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#2fa6c8",GradientType=1);
+}
+
+.party > a{
+    list-style: none;
+    color: black;
+}
